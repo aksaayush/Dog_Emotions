@@ -14,3 +14,6 @@ Similarly, a separate ImageDataGenerator is created for preprocessing the valida
 The model is trained using the fit method, with the training data and validation data as inputs for a total of 10 epochs.
 
 Finally, the trained model is saved as a h5 file with the name "dog_emotions_model.h5".
+
+Below is the link to the video walkthrough of the whole assignment:
+https://drive.google.com/drive/folders/1GkMs-7p0T70oaeGqU-PE7qM07snQT7v1?usp=sharing
